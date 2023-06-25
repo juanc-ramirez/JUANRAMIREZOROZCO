@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:juanc.ramirez99@gmail.com">juanc.ramirez99@gmail.com</a> •
-  <a href="[https://www.linkedin.com/in/juan-ramirez-orozco/](https://www.linkedin.com/in/juan-ramirezo/)">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/juan-ramirezo/">LinkedIn</a> •
   <a href="https://github.com/juanc-ramirez">GitHub</a>
 </p>
 
